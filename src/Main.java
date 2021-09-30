@@ -8,5 +8,6 @@ public class Main {
            wordstar =wordstar+ s;
         }
         System.out.println(wordstar);
+        System.out.println("*");
     }
 }
